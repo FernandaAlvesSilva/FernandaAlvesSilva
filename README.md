@@ -2,6 +2,16 @@
 
 <p align="left">Olá! Tenho 20 anos e sou estudante apaixonada por programação, atualmente em busca de uma oportunidade de estágio na área. Possuo conhecimento básico em linguagens como Java, JavaScript, PHP e Python.</p>
 
+
+<div style="display: flex; gap: 20px;">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FernandaAlvesSilva&show_icons=true&theme=radical)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaAlvesSilva&theme=radical)
+  
+</div>
+
+
 <h4 align="left">Linguagens</h4>
 
 <div align="left">
@@ -34,13 +44,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo" />
 </div>
 
-<div style="display: flex; gap: 20px;">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FernandaAlvesSilva&show_icons=true&theme=radical)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaAlvesSilva&theme=radical)
-  
-</div>
+
+
 
 <h4 align="left">Redes sociais</h4>
 
