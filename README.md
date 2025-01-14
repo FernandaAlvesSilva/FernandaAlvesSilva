@@ -1,6 +1,13 @@
-<h2 align="left">Olá, meu nome é Fernanda, bem-vindo ao meu GitHub!</h2>
+## 👋 Olá, sou a Fernanda!
 
-<p align="left">Olá! Tenho 20 anos e sou estudante apaixonada por programação, atualmente em busca de uma oportunidade de estágio na área. Possuo conhecimento básico em linguagens como Java, JavaScript, PHP e Python.</p>
+🔭 Atualmente, estou me aprofundando em **Análise e Desenvolvimento de Sistemas**, com um foco em backend e tecnologias web. Tenho experiência com **Java**, **PHP**, **JavaScript**, **Node.js** e estou sempre em busca de novos desafios para aprimorar minhas habilidades.
+
+💡 Apaixonada por resolver problemas através de código, estou sempre em movimento, aprendendo algo novo, seja em projetos pessoais ou contribuições open-source.
+
+💻 No meu GitHub, você encontrará repositórios com projetos de estudo, desafios de programação e soluções criativas que estou construindo. Sempre aberta a colaborar e compartilhar conhecimentos!
+
+📫 Vamos conversar! Sinta-se à vontade para abrir uma **issue**, mandar um **pull request** ou me contatar diretamente.
+
 
 
 <div style="display: flex; gap: 20px;">
