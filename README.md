@@ -1,6 +1,6 @@
 ## 👋 Olá, sou a Fernanda!
 
-🔭 Atualmente, estou me aprofundando em **Análise e Desenvolvimento de Sistemas**, com um foco em backend e tecnologias web. Tenho experiência com **Java**, **PHP**, **JavaScript**, **Node.js** e estou sempre em busca de novos desafios para aprimorar minhas habilidades.
+🔭 Atualmente, estou me aprofundando em **Desenvolvimento de Sistemas**, com um foco em backend e tecnologias web. Tenho experiência com **Java**, **PHP**, **JavaScript**, **Node.js** e estou sempre em busca de novos desafios para aprimorar minhas habilidades.
 
 💡 Apaixonada por resolver problemas através de código, estou sempre em movimento, aprendendo algo novo, seja em projetos pessoais ou contribuições open-source.
 
